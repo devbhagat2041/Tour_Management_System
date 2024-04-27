@@ -8,30 +8,21 @@ The Tours and Travels Management System is a comprehensive web solution designed
 Tehcnology used to create this project:-
 
 1.	Front-End technologies:
-1.1 HTML:
 
-1.2 CSS:
-
-1.3 JavaScript:
-
-1.4 ReactJS:
-
-1.5 React Router:
-
-
+1.1 HTML
+1.2 CSS
+1.3 JavaScript
+1.4 ReactJS
+1.5 React Router
 
 2.	Back-End technologies:
-2.1 Node.js:
-
-2.2 Express.js:
-
+2.1 Node.js
+2.2 Express.js
 
 
 3.	Database Management:
-3.1 MongoDB: 
-
-3.2 Mongoose:
-
+3.1 MongoDB
+3.2 Mongoose
 
 
 4.	Additional Technology:
